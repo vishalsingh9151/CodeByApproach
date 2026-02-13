@@ -11,6 +11,7 @@ public class vishal {
         }
         System.out.printf("%02d" , Reverse);
     }
+}
 
                                    //     This is problem of ZERO 
                                    //     example num = 10; -> But also maths define 1 
